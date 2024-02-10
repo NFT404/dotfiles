@@ -1,5 +1,5 @@
 # Dotfiles by NFT404
 
-![Dotfiles](https://gifyu.com/image/SCfgA)
+![Dotfiles](https://s13.gifyu.com/images/SCfgA.md.gif)
 
 Sexy and functional dotfiles. 🔥
